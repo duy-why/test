@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "Wattpad VN",
+    "author": "Hoang Duy",
+    "version": 1,
+    "source": "https://wattpad.com.vn",
+    "regexp": "^https?://(www\\.)?wattpad\\.com\\.vn/.+",
+    "description": "Đọc truyện từ wattpad.com.vn",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "search": "search.js"
+  }
+}
